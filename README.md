@@ -32,4 +32,8 @@ BIZZAN数字货币交易所 ，区块链合约交易所 开源代码，基于Spr
 - [x] 开源代理商前端源码
 - [x] 开源服务端源码-永续合约版本
 
+开源的代码前后端、机器人以及APP 等代码全部完整无缺失，开源版本和商业版本区别是：
+
+开源版本无秒合约功能 和最新开发的混合式APP （最新版H5）
+
 ### 下载代码移步至 [开源的数字资产交易所源码JAVA](https://github.com/bizzancoin/btc-eth-fil-contract-Exchange---ztuo):
