@@ -33,3 +33,11 @@ BIZZAN数字货币交易所 ，区块链合约交易所 开源代码，基于Spr
 - [x] 开源服务端源码-永续合约版本
 
 ### 下载代码移步至 [开源的数字资产交易所源码JAVA](https://github.com/bizzancoin/btc-eth-fil-contract-Exchange---ztuo):
+
+# 联系我们
+
+1、Whatsapp
+
+2、Telegram
+
+<img src="https://raw.githubusercontent.com/bizzancoin/btc-eth-fil-contract-Exchange---ztuo/master/img/whatsapp.jpg" alt="whatsapp" style="zoom: 33%;" />
