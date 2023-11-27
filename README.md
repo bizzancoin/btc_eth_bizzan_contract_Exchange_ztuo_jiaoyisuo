@@ -42,10 +42,13 @@ BIZZAN数字货币交易所 ，区块链合约交易所 开源代码，基于Spr
 
 # 联系我们
 
-1、Whatsapp
+1、Whatsapp: 
+
+***‪+44 7936 866117‬***
+
+<img src="https://raw.githubusercontent.com/bizzancoin/btc-eth-fil-contract-Exchange---ztuo/master/img/whatsapp.png" alt="whatsapp" style="zoom: 33%;" />
 
 2、Telegram
 
-<img src="https://raw.githubusercontent.com/bizzancoin/btc-eth-fil-contract-Exchange---ztuo/master/img/whatsapp.jpg" alt="whatsapp" style="zoom: 33%;" />
-=======
+https://t.me/usdtvps666
 
