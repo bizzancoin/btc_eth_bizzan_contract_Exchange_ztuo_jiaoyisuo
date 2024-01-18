@@ -9,11 +9,21 @@ BIZZAN数字货币交易所 ，区块链合约交易所 开源代码，基于Spr
 
 # 演示地址
 
-> 演示地址经常换，以实际联系为主。
+前端PC站：https://pc.usdtest.online
 
-**<font color=OrangeRed>本项目源码仅供研究、学习使用，请遵守当地法律！</font>**
+前端H5（uniapp）：https://mob.usdtest.online
 
-2023年7月19日， 交易所开发项目暂停，现源码低价销售。
+代理商登录：https://agent.usdtest.online
+
+测试账号：douyaolai@qq.com
+
+测试密码：admin123
+
+管理后台：http://backed.usdtest.online 火狐浏览器登录
+
+测试管理账号：admin
+
+密码：898989（APP下载直接到pc版中扫码下载）
 
 
 
