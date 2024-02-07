@@ -1,15 +1,49 @@
 # btc_eth_bizzan_contract_Exchange_ztuo_jiaoyisuo
-BIZZAN数字货币交易所 ，区块链合约交易所 开源代码，基于Springboot 、vue 开发的开源数字货币交易所，ZTUO 交易所2021版。 本系统项目代码有完整的撮合交易引擎源码、后台管理源码、前台源码、APP 源码、代理商源码、机器人源码。 开源项目仅供学习。 
+`1、项目用了Lombok插件，无论用什么IDE工具，请务必先安装Lombok插件 2、项目用了QueryDsl，如果遇见以Q开头的类找不到，请先编译一下对应的core模块，例如core、exchange-core、xxx-core这种模块 3、找不到的jar包在项目jar文件夹下
+jdk版本1.8以上（有可能在项目目录下的lib目录）`
+
+`2、初始化sql在sql文件夹中配置文件 配置文件打开这个设置会自动建表 #jpa spring.jpa.hibernate.ddl-auto=update`
+
+# 1、JAVA交易所源码开源列表
+
+1. 撮合交易引擎 后台管理（后端+前端）
+2. 前台（交易页面、活动页面、个人中心等） 
+3. 原生安卓APP源码
+4. 原生苹果APP源码 
+5. 币种钱包RPC源码 
 
 **本项目开源的免费版本没有永续合约和秒合约期权 。**
 
-[![开源的区块链合约交易所Java](https://res.cloudinary.com/marcomontalbano/image/upload/v1703318840/video_to_markdown/images/youtube--aVVEOkefJlE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=aVVEOkefJlE "开源的区块链合约交易所Java")
+# 2、系统运行环境
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=16&pause=1000&width=502&lines=Hey%EF%BC%8CI+am+%E5%98%89%E7%A6%BE%E6%9C%9B%E5%B2%97+My+Telegram+is+%40usdtvps666)](https://git.io/typing-svg)
+1. Centos 6.8
+2. MySQL 5.5.16
+3. Redis-x64-3.2.100
+4. Mongodb 3.6.13 5. kafka_2.11-2.2.1 6. nginx-1.16.0
+7.	JRE 8u241
+8.	JDK 1.8
+9.	Vue
+10.	Zookeeper
+
+# 3、生产环境建议配置
+
+![数字合约交易所开源全部源码](/img/bushu.jpg)
+
+# 运行截图
+
+![数字合约交易所开源全部源码](/img/index1.jpg)
+
+![数字合约交易所开源全部源码](/img/index2.jpg)
 
 
 
-# 演示地址
+![数字合约交易所开源全部源码](/img/index3.jpg)
+
+
+
+
+
+# 商业版JAva永续合约+期权+秒合约的演示地址
 
 前端PC站：https://pc.usdtest.online
 
@@ -29,6 +63,8 @@ BIZZAN数字货币交易所 ，区块链合约交易所 开源代码，基于Spr
 
 
 
-### 下载代码移步至 [开源的数字资产交易所源码JAVA](https://github.com/bizzancoin/btc-eth-fil-contract-Exchange---ztuo):
+------
+
+[![开源的区块链合约交易所Java](https://res.cloudinary.com/marcomontalbano/image/upload/v1703318840/video_to_markdown/images/youtube--aVVEOkefJlE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=aVVEOkefJlE "开源的区块链合约交易所Java")
 
 
