@@ -4,6 +4,8 @@ jdk版本1.8以上（有可能在项目目录下的lib目录）`
 
 `2、初始化sql在sql文件夹中配置文件 配置文件打开这个设置会自动建表 #jpa spring.jpa.hibernate.ddl-auto=update`
 
+#### 自助下单：https://www.bnbcode.com，感谢大家支持！
+
 # 1、JAVA交易所源码开源列表
 
 1. 撮合交易引擎 后台管理（后端+前端）
