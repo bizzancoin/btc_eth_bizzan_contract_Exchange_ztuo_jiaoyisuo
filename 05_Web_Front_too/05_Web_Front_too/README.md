@@ -1,5 +1,7 @@
 # BIZZAN_web_front
 
+# 近日有恶意利用本开源项目代码忽悠，请大家擦亮眼睛，我的联系方式是唯一的，没有其他。
+
 > BIZZAN数字资产交易所之web端
 
 ## Install Prerequisites
