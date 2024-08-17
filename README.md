@@ -49,21 +49,7 @@ Call Me：https://t.me/usdtvps666
 
 # 商业版JAva永续合约+期权+秒合约的演示地址
 
-前端PC站：https://pc.usdtest.online
-
-前端H5（uniapp）：https://mob.usdtest.online
-
-代理商登录：https://agent.usdtest.online
-
-测试账号：douyaolai@qq.com
-
-测试密码：admin123
-
-管理后台：http://backed.usdtest.online 火狐浏览器登录
-
-测试管理账号：admin
-
-密码：898989（APP下载直接到pc版中扫码下载）
+前端PC站：https://btxpc.testjys.shop
 
 
 
